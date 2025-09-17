@@ -419,7 +419,7 @@ function MinesApp({ playSfx }) {
 
 /* ======================= About Me ======================= */
 function AboutMeApp() {
-  const PHOTO = "/media/andreas.jpg"; // put your photo in public/media/andreas.jpg
+  const PHOTO = "/media/Me.jpg"; // put your photo in public/media/andreas.jpg
 
   const SCRIPT = `Hi there! Thanks for peeking into my little Matrix OS. 
 (…wait—you’re actually reviewing this? *clears throat*) 
