@@ -419,7 +419,7 @@ function MinesApp({ playSfx }) {
 
 /* ======================= About Me ======================= */
 function AboutMeApp() {
-  const PHOTO = "/media/Me.jpg"; // put your photo in public/media/andreas.jpg
+  const PHOTO = "/media/Me.jpg"; 
 
   const SCRIPT = `Hi there! Thanks for peeking into my little Matrix OS. 
 (…wait—you’re actually reviewing this? *clears throat*) 
@@ -529,7 +529,7 @@ function ExperienceApp() {
       {/* Meme header */}
       <div className={`rounded-lg border ${borderCol} bg-black/55 p-4`}>
         <div className="text-center font-mono text-lg text-emerald-300">
-          ME IRL: Graduating in ~1 month 🎓 (yes i lied on about me I only have 1 lesson to pass SO LET ME LIVE THE DREAM)
+          ME IRL: Graduating in ~1 month 🎓 (yes i lied on about me .I AM GETTING MY degree at NOVEMBER SO LET ME LIVE THE DREAM)
         </div>
         <div className="mt-1 text-center text-[12px] opacity-80">experience.exe downloading…</div>
 
